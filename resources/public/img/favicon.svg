@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+This logo is a copyrighted artwork created by Vincent Cantin in 2018.
+-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="438px"
+   height="438px"
+   viewBox="0 0 438 438"
+   version="1.1"
+   id="svg4586"
+   sodipodi:docname="404-taipei-favicon.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:export-filename="/Users/Vincent/Desktop/favicon.png"
+   inkscape:export-xdpi="25.11883"
+   inkscape:export-ydpi="25.11883">
+  <metadata
+     id="metadata4592">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4590" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1440"
+     inkscape:window-height="829"
+     id="namedview4588"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="1.4063927"
+     inkscape:cx="79.636364"
+     inkscape:cy="219"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="bg"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="fg">
+    <g
+       id="g912">
+      <circle
+         r="61.149349"
+         cy="158.56169"
+         cx="219"
+         id="path887"
+         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.21821165;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         id="path4624"
+         d="m 210.30051,109.00944 c -9.022,0.0571 -16.76966,4.30161 -23.22637,12.7728 -6.4485,8.47667 -9.67202,20.77564 -9.67202,36.8969 0.052,15.60122 3.27553,27.74329 9.67202,36.42797 6.35379,8.62669 14.10173,12.94967 23.22637,13.00727 v -5.60592 c -8.705,-0.45091 -13.08542,-12.35831 -13.08542,-35.87246 v -21.53022 c 0.052,-9.46473 1.22239,-16.87508 3.51056,-22.23149 2.25414,-5.32798 5.45338,-8.00436 9.57486,-8.08361 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:147.72087097px;line-height:125%;font-family:'Gujarati MT';-inkscape-font-specification:'Gujarati MT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#96ca4b;fill-opacity:1;stroke:none;stroke-width:0.83208919px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="text4603"
+         d="m 227.34675,109.00944 v 5.78124 c 0.0622,-10e-4 0.11477,-0.0295 0.17743,-0.0295 4.62836,0 8.03281,2.4694 10.21698,7.40979 2.23617,4.88837 3.35427,13.26202 3.35427,25.11895 v 25.42944 c 0,19.91756 -4.42006,29.87575 -13.26075,29.87575 -0.17352,0 -0.31773,-0.0778 -0.48793,-0.0866 v 5.60592 c 0.0613,3.9e-4 0.11597,0.0211 0.17743,0.0211 9.46474,0 17.34154,-4.21297 23.63403,-12.63763 6.2925,-8.47666 9.43967,-20.54239 9.43967,-36.19562 0,-16.79731 -3.24967,-29.38181 -9.75018,-37.75446 -6.4485,-8.42466 -14.22281,-12.61148 -23.32352,-12.55948 -0.0613,0 -0.11624,0.0207 -0.17743,0.0211 z"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:147.72087097px;line-height:125%;font-family:'Gujarati MT';-inkscape-font-specification:'Gujarati MT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#5f7fbf;fill-opacity:1;stroke:none;stroke-width:0.83208919px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

@@ -11,7 +11,7 @@
                  :justify-content :center
                  :align-items :center
                  :height :100vh}}
-   [:img {:src "svg/404-taipei.svg"}]])
+   [:img {:src "img/404-taipei.svg"}]])
 
 (defn app-view []
   [:div

@@ -18,4 +18,8 @@ Deploy to Github Pages.
 ./bin/deploy-to-gh-pages.sh
 ```
 
-Figwheel Main's documentation: `https://figwheel.org/docs/`
+Find the outdated dependencies.
+
+```shell
+clojure -Aoutdated -a outdated
+```

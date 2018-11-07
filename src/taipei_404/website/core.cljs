@@ -4,10 +4,22 @@
 (enable-console-print!)
 
 (defn hello []
-  [:div.red "Hello, wonderful world."])
+  [:div.green "Hello, wonderful world."])
+
+(defn centered-logo []
+  [:div {:style {:display :flex
+                 :justify-content :center
+                 :align-items :center
+                 :height :100vh}}
+   [:img {:src "svg/404-taipei.svg"}]])
+
+(defn app-view []
+  [:div
+   ;[hello]
+   [centered-logo]])
 
 (defn ^:export run []
-  (r/render [hello]
+  (r/render [app-view]
             (js/document.getElementById "app")))
 
 (run)

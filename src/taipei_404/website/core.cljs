@@ -1,11 +1,13 @@
-(ns taipei-404.website.core)
+(ns taipei-404.website.core
+  (:require [reagent.core :as r]))
 
 (enable-console-print!)
 
-(defn hello [] "Hello, wonderful world.")
+(defn hello []
+  [:div.red "Hello, wonderful world."])
 
-;; Alter a DOM element to set some text inside.
-(set! (.-innerHTML (js/document.getElementById "app"))
-      (hello))
+(defn ^:export run []
+  (r/render [hello]
+            (js/document.getElementById "app")))
 
-(println (hello))
+(run)
